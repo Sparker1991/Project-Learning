@@ -36,7 +36,7 @@ export default function DefaultLayout() {
             <div className="content">
                 <header>
                     <div>
-                        Header
+                        <h1>Bat Cave <i className="bi bi-rocket"></i></h1>
                     </div>
                     <div>
                         {user.name}
